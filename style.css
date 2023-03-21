@@ -34,7 +34,7 @@ ul li {
     display: block;
     background-color:011627;
     color: white;
-    height: 80px;
+    height:calc(100vh/8);
     width:fit-content;
     border: 1px solid white;
     padding:10px 20px;
